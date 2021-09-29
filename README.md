@@ -7,3 +7,6 @@ Selam Herkese Bu Bot İle Zamanında vlr,lastarnmy,poseidon,valencia Gibi Birço
 
 ``spamsaniyebot1`` Bunların Hepsini Farklı Girin Minimum 2500 , Maximum 5000 Olsun Rate Limited Hatası Alabilirsiniz Kendi Kendine Düzelir.
 
+Star Atarsanız Sevinirim.
+
+Discord: CYBERR ¿#1402
