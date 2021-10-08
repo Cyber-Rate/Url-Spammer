@@ -9,4 +9,4 @@ Selam Herkese Bu Bot İle Zamanında vlr,lastarnmy,poseidon,valencia Gibi Birço
 
 Star Atarsanız Sevinirim.
 
-Discord: CYBERR ¿#1402
+Discord: Cyber#9999
