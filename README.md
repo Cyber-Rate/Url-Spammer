@@ -1,5 +1,5 @@
 # Url-Spammer
-Selam Herkese Bu Bot İle Zamanında vlr,lastarnmy,poseidon,valencia Gibi Birçok Önemli Urlyi Aldım (Örnek Olarak Verdim Bunları) Birazdaha Geliştirip Sizlere Sundum.
+Selam Herkese Bu Bot İle Zamanında vlr,lastarnmy,posedion,valencia Gibi Birçok Önemli Urlyi Aldım (Örnek Olarak Verdim Bunları) Birazdaha Geliştirip Sizlere Sundum.
 
 ``Yapmanız Gerekenler;``
 
