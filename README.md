@@ -9,4 +9,4 @@ Selam Herkese Bu Bot İle Zamanında vlr,lastarnmy,poseidon,valencia Gibi Birço
 
 Star Atarsanız Sevinirim.
 
-Discord: Cyber Râte#1920
+Discord: Cyber Râte#0212
