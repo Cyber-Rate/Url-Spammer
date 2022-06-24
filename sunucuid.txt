@@ -1,0 +1,1 @@
+birden fazla sunucuda aynı hesapla spam yapabiliyorsun örnek:   sunucuid1,sunucuid2
