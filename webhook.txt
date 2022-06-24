@@ -1,0 +1,3 @@
+urlyi aldığında ever atıcak o kanalın webhook bağlantısını buraya atcan işte.
+
+not: normal mesaj attırmamamdaki sebep discord hesapları kapatıyor rep atılırsa.
